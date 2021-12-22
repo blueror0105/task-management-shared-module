@@ -2,7 +2,7 @@
 Shared resources for Business-in-a-Box submodules
 
 ## Components
-- Bib library components
+- sv library components
 
 ## CSS
 - Colors
